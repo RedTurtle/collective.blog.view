@@ -9,7 +9,13 @@ Changelog
 - Added improvements about i18n [macagua]
 
 - Added support for locales and translation for blog_view template [cekk]
-- default_item view now uses effective view of the object, and not a base view based on portal_type [cekk]
+
+- default_item view now uses effective view of the object, and not a base
+  view based on portal_type [cekk]
+
+- Added title of the blog folder in its view [mauritsvanrees]
+
+- Added proper message when the blog folder is empty [keul]
 
 1.4 (2012-01-06)
 ----------------
