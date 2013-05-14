@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-03-10 01:49+0000\n"
+"POT-Creation-Date: 2013-05-14 08:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: Andrea Cecchi <andrea.cecchi@redturtle.it>\n"
 "Language-Team: RedTurtle Technology <sviluppoplone@redturtle.it>\n"
@@ -14,15 +14,20 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: collective.blog.view\n"
 
-#: ./blog.pt:46
+#: ./blog.pt:53
 msgid "${comments_count} Comments"
 msgstr "${comments_count} Commenti"
 
 #: Profile description in configure.zcml
 msgid "Blog view for Plone"
-msgstr ""
+msgstr "Vista Blog per Plone"
 
 #: Profile title in configure.zcml
 msgid "Collective Blog View"
 msgstr ""
+
+#. Default: "There are currently no blog posts in this folder."
+#: ./blog.pt:60
+msgid "description_no_blog_entries"
+msgstr "Al monento non ci sono articoli in questo blog."
 

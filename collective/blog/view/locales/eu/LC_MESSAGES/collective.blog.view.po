@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2013-03-10 01:49+0000\n"
+"POT-Creation-Date: 2013-05-14 08:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI +ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: DOMAIN\n"
 
-#: ./blog.pt:46
+#: ./blog.pt:53
 msgid "${comments_count} Comments"
 msgstr ""
 
@@ -24,5 +24,10 @@ msgstr ""
 
 #: Profile title in configure.zcml
 msgid "Collective Blog View"
+msgstr ""
+
+#. Default: "There are currently no blog posts in this folder."
+#: ./blog.pt:60
+msgid "description_no_blog_entries"
 msgstr ""
 
